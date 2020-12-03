@@ -1,0 +1,14 @@
+[
+    {
+        "name": "dongnamjib",
+        "category": ["hansik", "gookmul"],
+        "menu": ["galbitang"],
+        "checked": true
+    },
+    {
+        "name": "haneuljoo",
+        "category": ["hansik", "gookmul"],
+        "menu": ["galbitang", "bibimbab"],
+        "checked": true
+    }
+]
